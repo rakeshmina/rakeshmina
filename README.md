@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about new technologies. I also love Finance and Business side of things.
 - 💻 My tech skills include MERN & MEAN stacks. Have knowledge of DSA, Typesript.
 - 🌱 I’m currently learning Finance and Business sides.
-- 💞️ I’m looking to collaborate on Tech repos if there is anything beyond by dev skills.
+- 💞️ I’m looking to collaborate on Tech repos if there is anything beyond my dev skills.
 - 📫 Please feel free to reach out to me on goraminaabd@gmail.com
 
 <!---
